@@ -1,1 +1,3 @@
-# portfolio
+# Portfolio
+# About me 
+My name is Milena Cnotkowska. I am master of musicology and Latin American studies. I graduated from University of Warsaw, Poland. Recently I have started to interest of software testing. I have taken six-month training in software testing from a reputed institute (Software Development Academy). I have learnt functional and non-functional testing. I have executed a project in software testing where I used automation testing tool Selenium to automate some of the commonly used features of the application. I have written test cases for the manual execution and reported defects in Jira. My goal is to develop testing knowlage and technical skills. 
